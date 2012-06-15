@@ -12,7 +12,7 @@ Getting Started
 Using Director
 ----
 
-3. Download this (sample project)[http://github.com/shawngrimes/DirectorSample]
+3. Download this [sample project] (https://github.com/shawngrimes/DirectorSample/zipball/CleanStart)
 4. Copy director.lua and template.lua from step 1 into sample project folder
 5. Load the director.lua file into your main.lua :
 	````
